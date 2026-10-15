@@ -707,3 +707,15 @@ p + p { margin-top: 1em; }
   .kacim-brand strong { font-size: 0.98rem; }
   .kacim-brand em { font-size: 0.56rem; }
 }
+/* ============ SECÇÃO SOBRE — AUTORIA ============ */
+.story-authors {
+  font-family: var(--font-italic);
+  font-style: italic;
+  font-weight: 600;
+  color: var(--gold-dark);
+  font-size: 1.15rem;
+  line-height: 1.3;
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
